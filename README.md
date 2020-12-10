@@ -5,7 +5,7 @@
 - 👀 I'm a final year of Statistics.
 - 🌱 I currently learn everything, especially about data science and analytics
 - 👯‍ I'm looking to collaborate with other content creators or data scientist
-- ⛳ 2020 Goals: Give impact to other, and contribute more projects
+- ⛳ 2021 Goals: Give impact to other, and contribute more projects
 - ✨ Fun fact: I love to reading random books, drawing (for graphic design and illustration), and singing
 - 👧 Pronouns: She/Her
 - 🗣️ Ask me anything
