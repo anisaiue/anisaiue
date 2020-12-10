@@ -17,6 +17,7 @@
 [<img align="left" alt="Anisa | Rpubs" width="22px" src="hhttps://cdn.jsdelivr.net/npm/simple-icons@4.1.0/icons/rstudio.svg"/>][rpubs]
 
 <br />
+<br />
 
 ### Languages and Tools:
 
@@ -27,9 +28,11 @@
 <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 <img align="left" alt="Postgre SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 
+</details>
 
 <img align="left" alt="Anisa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anisaiue&show_icons=true&hide_border=true" />
 
+</details>
 [youtube]: https://www.youtube.com/channel/UCmbg7aKkDeyNyE-rfJRQxpg
 [instagram]: https://www.instagram.com/anisaiue
 [linkedin]: https://www.linkedin.com/in/anisa-1428
