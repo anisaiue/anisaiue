@@ -14,8 +14,9 @@
 [<img align="left" alt="Data Enthusiast ID | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.1.0/icons/youtube.svg"/>][youtube]
 [<img align="left" alt="anisaiue | instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.1.0/icons/instagram.svg"/>][instagram]
 [<img align="left" alt="Anisa Anisa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.1.0/icons/linkedin.svg"/>][linkedin]
-[<img align="left" alt="Anisa | Rpubs" width="22px" src="hhttps://cdn.jsdelivr.net/npm/simple-icons@4.1.0/icons/rstudio.svg"/>][rpubs]
+[<img align="left" alt="Anisa | Rpubs" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.1.0/icons/rstudio.svg"/>][rpubs]
 
+<br />
 <br />
 
 ### Languages and Tools:
